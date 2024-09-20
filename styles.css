@@ -1,0 +1,46 @@
+body {
+background: rgba(1, 1, 48, 0.884);
+color: black;
+
+
+}
+
+
+header{
+color: cornflowerblue;
+background:rgb(6, 6, 75);
+padding: 50px;
+border-bottom: solid 2px black;
+font-family: "Edu VIC WA NT Beginner", cursive;
+font-size: large;
+}
+
+
+section {
+
+background:rgba(28, 28, 131, 0.671);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
+div {
+margin-right: 40px;
+}
+
+
+h1 {
+    font-family: "Mochiy Pop One , sans-serif;
+
+
+
+}
+
+.categoria-videos img {
+    height: 200px;
+}
+
+.categoria {
+    display: flex;
+}
